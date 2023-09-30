@@ -1,0 +1,50 @@
+{
+  "projects": [
+    {
+      "date": "",
+      "title": "IMAGE EDITOR",
+      "description": "This is the Photo editor website. By using this website you can edit the image,filter the image,etc . this is made by using html,css,javascript",
+      "url": "https://replit.com/@JasdeepSingh35/WeatherApp",
+      "imgSrc": "https://media.istockphoto.com/id/1426152258/photo/sample-software-for-viewing-and-editing-photos-on-tablet-computer.jpg?s=1024x1024&w=is&k=20&c=EdEMekdu5MecYzcVLJlMlWuXbHDXxfViIMlGAgU4ZbY="
+    },
+
+    {
+      "date": "",
+      "title": "CHECK WEATHER",
+      "description": "This is the weather website . this website shows the current weather of the cities and countries . this is made by using html,css,javascript,api-calling",
+      "url": "",
+      "imgSrc": "https://media.istockphoto.com/id/1284445529/vector/weather-application-template.jpg?s=1024x1024&w=is&k=20&c=YRq1zteYot2aUol5CEw7tuPeEXc8_kvPO1Ohk1mV29A="
+    },
+    {
+      "date": "",
+      "title": "PNR NO.CHECKER",
+      "description": "This Website checks the IRCTC status.This is based on api-calling",
+      "url": "https://pnr-checker.vercel.app/",
+      "imgSrc": "https://media.istockphoto.com/id/466506979/photo/indian-passenger-train.jpg?s=1024x1024&w=is&k=20&c=Hisr4qxXaXD4iLo8QF_EDZb4xzEL2eg3p3QKh40IXlU="
+    },
+
+    {
+      "date": "",
+      "title": "Calculator",
+      "description": "This is made by using Html,css,Javascript",
+      "url": "https://calculator-zeta-two-77.vercel.app/",
+      "imgSrc": "https://media.istockphoto.com/id/531633071/vector/calculator.jpg?s=1024x1024&w=is&k=20&c=moxrM0Kij3ZD2nLcjEsZ4B5yxHRj-hXlqitZocROr5Y="
+    },
+    
+    {
+      "date": "",
+      "title": "TechSolution",
+      "description": "This is made by using Html,css,Javascript,reactjs",
+      "url": "https://techsolution-kappa.vercel.app/#home",
+      "imgSrc": "https://media.istockphoto.com/id/1291751221/photo/the-sales-department-scores-again.jpg?s=1024x1024&w=is&k=20&c=Tr6z9yC6jGxhqJGD2Bc3XNpqNz-ebk56fVdcYEWQAtQ="
+    },
+
+    {
+      "date": "",
+      "title": "Customer-Management-System",
+      "description": "In this website you can access all the customers by add,delete,update,save,etc and save the data in the form of table",
+      "url": "/",
+      "imgSrc": "https://media.istockphoto.com/id/1354388102/photo/software-for-security-searching-and-managing-corporate-files-and-employee-information.jpg?s=1024x1024&w=is&k=20&c=pRNiDURmVyKY4KOXQqTRXMEEHq_CPzj9cNv6DsQYVCw="
+    }
+  ]
+}
