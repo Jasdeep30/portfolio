@@ -4,7 +4,7 @@
       "date": "",
       "title": "IMAGE EDITOR",
       "description": "This is the Photo editor website. By using this website you can edit the image,filter the image,etc . this is made by using html,css,javascript",
-      "url": "https://replit.com/@JasdeepSingh35/WeatherApp",
+      "url": "https://photo-editing-website.vercel.app/",
       "imgSrc": "https://media.istockphoto.com/id/1426152258/photo/sample-software-for-viewing-and-editing-photos-on-tablet-computer.jpg?s=1024x1024&w=is&k=20&c=EdEMekdu5MecYzcVLJlMlWuXbHDXxfViIMlGAgU4ZbY="
     },
 
@@ -12,7 +12,7 @@
       "date": "",
       "title": "CHECK WEATHER",
       "description": "This is the weather website . this website shows the current weather of the cities and countries . this is made by using html,css,javascript,api-calling",
-      "url": "",
+      "url": "https://check-weather-website.vercel.app/",
       "imgSrc": "https://media.istockphoto.com/id/1284445529/vector/weather-application-template.jpg?s=1024x1024&w=is&k=20&c=YRq1zteYot2aUol5CEw7tuPeEXc8_kvPO1Ohk1mV29A="
     },
     {
@@ -43,7 +43,7 @@
       "date": "",
       "title": "Customer-Management-System",
       "description": "In this website you can access all the customers by add,delete,update,save,etc and save the data in the form of table",
-      "url": "/",
+      "url": "https://customer-management-system-zeta.vercel.app/",
       "imgSrc": "https://media.istockphoto.com/id/1354388102/photo/software-for-security-searching-and-managing-corporate-files-and-employee-information.jpg?s=1024x1024&w=is&k=20&c=pRNiDURmVyKY4KOXQqTRXMEEHq_CPzj9cNv6DsQYVCw="
     }
   ]
